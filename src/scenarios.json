@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "The Mysterious Cave",
+        "description": "You stumble upon a mysterious cave entrance. Do you dare to enter?",
+        "options": [
+            {
+                "text": "Enter the cave",
+                "next_scenario_id": 2
+            },
+            {
+                "text": "Ignore the cave and continue on your journey",
+                "next_scenario_id": 3
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Darkness Within",
+        "description": "As you enter the cave, darkness surrounds you. You hear strange noises echoing in the distance...",
+        "options": [
+            {
+                "text": "Explore further into the cave",
+                "next_scenario_id": 4
+            },
+            {
+                "text": "Retreat from the cave",
+                "next_scenario_id": 5
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Safe Travels",
+        "description": "You continue on your journey, leaving the mysterious cave behind. The path ahead is clear.",
+        "options": []
+    }
+]

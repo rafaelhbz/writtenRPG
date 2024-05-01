@@ -1,0 +1,48 @@
+Possiveis dicionarios para a estadia em Milão:
+
+
+Viagem até Milão: parte um
+
+Apartamento => Uber, Taxi
+Uber => Aeroporto de Congonhas
+Taxi => Aeroporto de Congonhas
+Aeroporto de Congonhas => lojas
+Lojas => avião
+Avião => Aeroporto internacional em Milão
+Aeroporto => taxi
+Taxi => hotel
+
+Primeira semana em Milão: parte dois
+
+(fazer um simulador tipo skyscanner => escrever "skyscanner" e aparece todos os voos com preço baixo)
+
+7 traits do personagem:
+
+Carisma (social, mulheres...)
+Inteligência (provas, networking...)
+Pontualidade (bonus de tempo, pessoas te vejam melhor)
+Saúde (dependendo do seu nível de saúde, você fica doente / disposto / indisposto / normal / super disposto => nerf ou buff no personagem)
+Estilo (vestir-se bem faz com que as pessoas te notem)
+Adaptabilidade (te dá um buff ou debuff em relação às outras características. Quanto menos => menos oportunidade. Mais => mais oportunidades)
+Língua (apesar de ser relacionado com inteligência, melhora a comunicação e dá acesso a negociações e eventos)
+
+<=> Carisma, Inteligência, Pontualidade, Saúde, Estilo, Adaptabilidade, Língua <=>
+
+
+
+
+
+
+Pontos importantes:
+Fome
+Sede
+Frio
+Calor
+Barba
+Cabelo
+Bigode
+Dinheiro
+Amigos
+Dates
+Redes sociais
+Viagens
